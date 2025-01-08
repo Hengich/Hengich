@@ -21,8 +21,8 @@ ___
 
 ___
 ### 📫 How to reach me:
-[![pre-commit](https://img.shields.io/badge/Telegram-bikovshanin-26A5E4?logo=telegram&logoColor=white)](https://t.me/hengich)
-[![pre-commit](https://img.shields.io/badge/email-bikovshanin@yandex.ru-005FF9?logo=maildotru&logoColor=white)](mailto:daniil.esakov@mail.ru)
+[![pre-commit](https://img.shields.io/badge/Telegram-hengich-26A5E4?logo=telegram&logoColor=white)](https://t.me/hengich)
+[![pre-commit](https://img.shields.io/badge/email-daniil.esakov@mail.ru-005FF9?logo=maildotru&logoColor=white)](mailto:daniil.esakov@mail.ru)
 
 <!--
 **Hengich/Hengich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
