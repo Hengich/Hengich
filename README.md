@@ -21,7 +21,7 @@ ___
 
 ___
 ### 📫 How to reach me:
-[![pre-commit](https://img.shields.io/badge/Telegram-hengich-26A5E4?logo=telegram&logoColor=white)](https://t.me/hengich)
+[![pre-commit](https://img.shields.io/badge/Telegram-daniilesakov-26A5E4?logo=telegram&logoColor=white)](https://t.me/daniilesakov)
 [![pre-commit](https://img.shields.io/badge/email-daniil.esakov@mail.ru-005FF9?logo=maildotru&logoColor=white)](mailto:daniil.esakov@mail.ru)
 
 <!--
